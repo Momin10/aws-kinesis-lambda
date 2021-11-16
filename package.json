@@ -11,7 +11,7 @@
   "homepage": "",
   "license": "ISC",
   "dependencies": {
-    "aws-sdk": "^2.146.0",
+    "aws-sdk": "^2.814.0",
     "bn.js": "^4.11.8"
   },
   "devDependencies": {
